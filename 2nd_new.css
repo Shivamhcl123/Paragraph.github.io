@@ -1,0 +1,40 @@
+
+
+h1{
+
+    border: 5px dashed green;
+    width: 60%;
+   
+}
+
+p {
+
+    font-size: 1rem;
+    font-style: italic;
+    
+}
+
+a{
+
+    text-decoration: none;
+    cursor: pointer;
+    color: blue;
+}
+    
+    a:visited, a:focus{
+
+        color: blueviolet;
+    }
+
+
+a:hover, a:focus{
+
+    color: red;
+    opacity: 0.9;
+    background-color: gold; 
+}
+
+a:active{
+
+    color: steelblue;
+}
